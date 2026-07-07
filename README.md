@@ -23,5 +23,6 @@ Features
 - Delete Member Record
 - Search Member
 
+Emerreyl Joy M. Banocnoc
 
 
